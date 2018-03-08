@@ -248,3 +248,5 @@ line-height: 3;
   .portcontainer:hover .overlay {
     opacity: 1;
   }
+
+  #ervaringen { height: 600px; }
